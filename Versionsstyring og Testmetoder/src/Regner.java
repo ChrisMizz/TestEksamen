@@ -9,7 +9,7 @@ public class Regner {
     }
 
     public double sum() {
-        double sum = (1.0/3.0*Højden*Grundflade);
+        double sum = (1.0/3.0*Højden*Grundflade); //Regner Volumen af pyramiden
         return sum;
     }
 }
